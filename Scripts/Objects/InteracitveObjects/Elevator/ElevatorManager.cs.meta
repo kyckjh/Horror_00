@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b3753c92a6075ea428a9f5c0f434b971
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - screenUp: {fileID: 2100000, guid: 59427ef27f79e584db00f857a53aea85, type: 2}
+  - screenDown: {fileID: 2100000, guid: 512df13d86955d04ea5b88415ec531da, type: 2}
+  - screenUpMoving: {fileID: 2100000, guid: 7067ad9dc059dea4ea30839b89618fa1, type: 2}
+  - screenDownMoving: {fileID: 2100000, guid: 04063b4ed64db3b498c14b31b86da3e8, type: 2}
+  - screenBlack: {fileID: 2100000, guid: 004453853694c6347bebb7745bd08c89, type: 2}
+  - screenNum1: {fileID: 2100000, guid: 12f0f163f0a7d554fabed7140d3dae5b, type: 2}
+  - screenNum2: {fileID: 2100000, guid: 649e6ec2dc703a141b8d99d211ab9cde, type: 2}
+  - screenNum3: {fileID: 2100000, guid: 351e8cc8cffb15c4a864fc24a432cf4f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
